@@ -74,7 +74,7 @@
 
 ## 🚀 Featured Projects
 
-### 🌾 **Ivanamrta – Agri-Tech Platform**
+### 🌾 **Jivanamrta – Agri-Tech Platform**
 **Tech:** React.js, Node.js, Express.js, SQL, Bootstrap  
 **📅 Oct 2024**
 
