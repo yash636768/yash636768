@@ -119,7 +119,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashpratapsingh&show_icons=true&theme=tokyonight" />
 </p>
 
@@ -129,7 +129,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpratapsingh&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
